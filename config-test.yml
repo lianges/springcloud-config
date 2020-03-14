@@ -1,1 +1,2 @@
-# springcloud-config
+config:
+  info: master breanch,springcloud-config/config-test.yml version=1

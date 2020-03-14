@@ -1,2 +1,2 @@
-
-222
+config:
+  info: master breanch,springcloud-config/config-dev.yml version=1
